@@ -31,5 +31,5 @@ In the Example print the value of text with %s give the format of text.
 .SH SEE ALSO
 .I printf (3)
 .SH AUTHOR
-Eweleye Olamide ( olasmart )
-ADEYEMI Timmy ( Timmypr )
+EWELEYE OLAMIDE ( olasmart )
+DEINYIBO BRAIDE ( Deinyibo Braide )
