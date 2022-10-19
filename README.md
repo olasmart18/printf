@@ -24,3 +24,7 @@ Authorized functions and macros
 5. va_end (man 3 va_end)
 6. va_copy (man 3 va_copy)
 7. va_arg (man 3 va_arg)
+
+Collaborators:
+Olamide Eweleye
+Braide Deinyibo Donald
