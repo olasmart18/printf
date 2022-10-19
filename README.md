@@ -1,4 +1,4 @@
-# printf collaboration project
+printf collaboration project
 
 INTRUCTUION GUIDING PROJECT
 
